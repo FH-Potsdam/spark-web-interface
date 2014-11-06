@@ -1,5 +1,3 @@
-# [Click here to launch Spark Web Interface](http://suda.github.io/spark-web-interface/)
-
 This is a simple client side panel for interaction with [Spark Cloud](https://www.spark.io/) variables and functions.
 
 May be used as alternative to `spark call` and `spark variable` CLI commands.
